@@ -13,13 +13,11 @@ Here’s a sample README section you can add or replace in your file:
 
 This repository includes everything related to the ResolveNow: Your Platform for Online Complaints
 
-|Resource	|Description|Link / Location|
-
-|💻 Source Code|Complete frontend and backend implementation	project files|..|
-|📄 Documentation	|Detailed project report with system description|..|
-|🎥 Demo |Video	Walkthrough of the project's working features|..|	
-
-
+| 🧩 Resource       | 📝 Description                                  | 🔗 Link / Location          |
+|------------------|--------------------------------------------------|-----------------------------|
+| 💻 Source Code    | Complete frontend and backend implementation     | [View Code](#)              |
+| 📕 Documentation  | Detailed project report with system description  | [Download PDF](#)           |
+| 🎬 Demo Video     | Walkthrough of the project's working features    | [Watch Video](#)            |
 
 
 ---
