@@ -15,10 +15,13 @@ This repository includes everything related to the ResolveNow: Your Platform for
 
 Resource	                                       Description	                                                        Link / Location
 
-💻 Source Code                       Complete frontend and backend implementation	project files
-📄 Documentation	                   Detailed project report with system description	document/ResolveNow_Documentation.pdf
-🎥 Demo                              Video	Walkthrough of the project's working features	Click to Watch Video (Replace this with your actual link)
-📷 Screenshots	UI and dashboard previews	document/screenshots/
+💻 Source Code                       Complete frontend and backend
+                                      implementation	project files
+📄 Documentation	                    Detailed project report with 
+                                      system description	
+🎥 Demo                               Video	Walkthrough of the project's
+                                       working features	
+
 
 
 
@@ -33,20 +36,3 @@ Resource	                                       Description	                    
 
 
 3. Watch the video demo to see the project in action.
-
-
-4. Use the screenshots for a quick visual idea of how the app looks.
-
-
-
-
----
-
-If you're hosting your demo video on Google Drive or YouTube:
-
-Replace the demo video link with your actual public link.
-
-If using Google Drive, make sure sharing is set to "Anyone with the link can view."
-
-
-Would you like me to generate this section directly as a README.md file for you to upload?
