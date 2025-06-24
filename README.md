@@ -2,9 +2,8 @@
 
 A Online-Complaint-Registration-and-Management-System
 
-To clearly show that your project has code, a demo video, documentation PDF, and other resources, you should update your README.md in a structured and professional way.
 
-Here’s a sample README section you can add or replace in your file:
+
 
 
 ---
